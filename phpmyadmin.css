@@ -1,0 +1,30 @@
+
+input[type=radio],
+input[type=checkbox] {
+    	width: 30px;
+	height: 30px;
+}
+
+#pma_navigation_tree_content a.hover_show_full[href*=users],
+#pma_navigation_tree_content a.hover_show_full[href*=conv],
+#pma_navigation_tree_content a.hover_show_full[href*=session]
+{
+	background: rgba(108, 115, 175, 0.34);
+}
+
+#pma_navigation_tree_content a.hover_show_full[href*=pocket_]
+{
+	background: rgba(255, 115, 175, 0.34);
+}
+
+#pma_navigation_tree_content a.hover_show_full[href*=photo],
+#pma_navigation_tree_content a.hover_show_full[href*=spot_text]
+{
+	background: #93D6DE;
+}
+
+.CodeMirror-wrap pre {
+	font-size: 140%;
+	letter-spacing: 2px;
+	line-height: 1.8;
+}

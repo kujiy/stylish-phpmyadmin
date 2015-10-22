@@ -1,0 +1,14 @@
+/*
+ura
+Regular Expressions
+.*\/sns\/.*
+*/
+
+*,
+.padding_s lh_120,
+.lh_120
+{ line-height:2}
+
+.border_01 {
+    width:100%;
+}

@@ -1,3 +1,8 @@
+/*
+Regular expressions
+.*redmine.*
+
+*/
 input {
     width: 150px;
     padding: 10px;

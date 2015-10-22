@@ -1,0 +1,158 @@
+input {
+    width: 150px;
+    padding: 10px;
+    font-size: 130%;
+}
+input[type='checkbox'] {
+    height: 30px
+}
+.field input {
+    width: 50px;
+    margin-bottom: 10px;
+    /* transform: scale(3); */
+}
+tr.filter>td {
+    height: 50px;
+}
+select {
+    font-size: 120%;
+}
+img {
+    min-width: 30px
+}
+.contextual a,
+#sidebar a {
+    font-size: 130%;
+    margin-right: 2em;
+    display: block;
+    border: 1px solid #888;
+    background: #fff;
+    padding: 10px
+}
+.buttons a {
+    font-size: 130%;
+    margin-right: 2em;
+    border: 1px solid #888;
+    background: #eee;
+    padding: 10px
+}
+body {
+    font-size: 18px
+}
+legend {
+    font-size: 130%;
+}
+#header {
+    background: #31A965
+}
+#main-menu li a {
+    background-color: #236225;
+    font-weight: bold;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+div.issue {
+    background: #FBFFFB;
+    padding: 6px;
+    margin-bottom: 6px;
+    border: 1px solid #D7D7D7;
+}
+a,
+a:link,
+a:visited {
+    color: #5565D8;
+}
+body,
+h1,
+h2,
+h3,
+h4,
+input,
+textarea,
+keygen,
+select,
+button,
+option {
+    font-family: "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo!important;
+    line-height: 2;
+}
+.wiki-edit {
+    font-size: 120%;
+}
+div.issue div.subject h3 {
+    font-size: 150%;
+}
+h1 {
+    font-size: 200%;
+}
+legend small {
+    font-size: 200%;
+    border: 1px solid #EC05EC;
+    background: #FFD7EF;
+}
+#query_form img {
+    width: 70px;
+}
+.journal {
+    border-top: 1px solid #888;
+    padding: 2em 3em;
+}
+ul.details li {
+    font-size: 90%;
+}
+ul.details strong {
+    color: #981353;
+    font-size: 120%;
+}
+ul.details i {
+    color: #DA275B;
+    font-style: normal;
+    font-size: 120%;
+}
+.editable .contextual {
+    margin-top: -150px;
+}
+img.gravatar {
+    width: 5px;
+    height: 30px;
+}
+.assigned-to img {
+    width: 65px;
+    height: 64px;
+}
+.assigned-to a {
+    font-size: 120%;
+}
+.author {
+    font-size: 60%;
+}
+img.calendar-trigger {
+    width: 65px;
+    height: 65px;
+    margin-bottom: -20px;
+}
+input[type="file"] {
+    width: 1000px;
+}
+input[type="submit"] {
+    width: 90%;
+    padding: 50px;
+    font-size: 3em;
+    background-color: #92F6ED;
+}
+#main-menu .issues {
+    padding-left: 2.2em;
+    padding-right: 2.2em;
+}
+select#values_status_id_1[multiple] {
+    height: 600px;
+}
+#context-menu {
+    font-size: 0.6em;
+}
+#context-menu li.folder ul {
+    max-height: 700px;
+}
+#context-menu.reverse-y li.folder>ul {
+    /*	bottom: -460px; */
+}

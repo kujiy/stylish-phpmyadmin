@@ -4,30 +4,72 @@ Regular Expressions
 */
 input[type=radio],
 input[type=checkbox] {
-    	width: 30px;
-	height: 30px;
+        width: 30px;
+    height: 30px;
 }
 
+.warp_link a[href*=users],
+.warp_link a[href*=conv],
+.warp_link a[href*=session],
 #pma_navigation_tree_content a.hover_show_full[href*=users],
 #pma_navigation_tree_content a.hover_show_full[href*=conv],
 #pma_navigation_tree_content a.hover_show_full[href*=session]
 {
-	background: rgba(108, 115, 175, 0.34);
+    background: rgba(108, 115, 175, 0.34);
 }
 
+.warp_link a[href*=pocket_],
 #pma_navigation_tree_content a.hover_show_full[href*=pocket_]
 {
-	background: rgba(255, 115, 175, 0.34);
+    background: rgba(255, 115, 175, 0.34);
 }
 
+.warp_link a[href*=photo],
+.warp_link a[href*=spot_text],
 #pma_navigation_tree_content a.hover_show_full[href*=photo],
 #pma_navigation_tree_content a.hover_show_full[href*=spot_text]
 {
-	background: #93D6DE;
+    background: #93D6DE;
 }
 
 .CodeMirror-wrap pre {
-	font-size: 140%;
-	letter-spacing: 2px;
-	line-height: 1.8;
+    font-size: 140%;
+    letter-spacing: 2px;
+    line-height: 1.8;
 }
+.CodeMirror-hints {
+    font-size:159%;
+}
+#button_submit_query {
+    width: 200px;
+    height: 50px;
+    background: #D9AFAF;
+}
+
+
+select#tablefields {
+    font-size: 150%;
+}
+
+span.drop_button {
+    font-size: 150%;
+}
+ li.warp_link a {
+    font-size: 130%;
+}
+
+
+ul#topmenu a[href*=tbl_sql],
+.tabactive a[href*=tbl_sql]
+{
+    background:#F1FF98;
+}
+
+
+
+
+
+
+
+
+
